@@ -4,7 +4,7 @@ title:          WampServer 3.0 所需运行库下载(Windows Server 2016)
 subtitle:       Windows Server2016 install WampServer3.0
 date:           2016-1-26 16:09:10
 tags:           code
-post-card-type: article
+post-card-type: img
 ---
 
 ## 说明

@@ -18,7 +18,7 @@ WampServer 3.0依赖编译于 VC9（Microsoft Visual C++ 2008）、VC10（Micros
 
 ## 下载
 
-链接: https://pan.baidu.com/s/1qYbVhpy 密码: k6w8
+链接: [https://pan.baidu.com/s/1qYbVhpy] 密码: k6w8
 
 
 ----------

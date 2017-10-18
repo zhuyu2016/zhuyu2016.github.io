@@ -5,7 +5,7 @@ subtitle:       CSS priority level
 card-image: 
 date:           2016-5-14 9:00:19
 tags:           code
-post-card-type: code
+post-card-type: article
 ---
 
 ## 计算

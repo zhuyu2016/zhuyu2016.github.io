@@ -8,6 +8,7 @@ tags:           code
 post-card-type: article
 ---
 
+
 ## 说明
 
 WampServer 3.0依赖编译于 VC9（Microsoft Visual C++ 2008）、VC10（Microsoft Visual C++ 2010），VC11（Microsoft Visual C++ 2012）以及 PHP7 依赖编译的 VC14（Microsoft Visual C++ 2015），所我们得确保所有 Microsoft Visual C++ 运行库都已安装至最新版。

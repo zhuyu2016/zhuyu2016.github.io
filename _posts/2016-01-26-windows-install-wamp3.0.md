@@ -5,7 +5,7 @@ subtitle:       Windows Server2016 install WampServer3.0
 card-image: 
 date:           2016-1-26 16:09:10
 tags:           code
-post-card-type: image
+post-card-type: article
 ---
 
 ## 说明

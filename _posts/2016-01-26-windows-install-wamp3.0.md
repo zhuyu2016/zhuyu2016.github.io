@@ -5,7 +5,7 @@ subtitle:       Windows Server2016 install WampServer3.0
 card-image: 
 date:           2016-1-26 16:09:10
 tags:           code
-post-card-type: img
+post-card-type: image
 ---
 
 ## 说明
@@ -18,7 +18,7 @@ WampServer 3.0依赖编译于 VC9（Microsoft Visual C++ 2008）、VC10（Micros
 
 ## 下载
 
-链接: https://pan.baidu.com/s/1qYbVhpy 密码: k6w8
+链接: [https://pan.baidu.com/s/1qYbVhpy](https://pan.baidu.com/s/1qYbVhpy) 密码: k6w8
 
 
 ----------

@@ -50,11 +50,11 @@ post-card-type: article
 </body>
 </html>
 ```
-##到底div是应用那条规则呢?
+### 到底div是应用那条规则呢?
 
 > div.class的权值是1+10=11，而.test1 .test2的权值是10+10=20，所以div会应用.test1 .test2变成绿色。
 
-##需注意的：
+### 需注意的：
 
 　　①、!important的优先级是最高的，但要谨慎使用;
 

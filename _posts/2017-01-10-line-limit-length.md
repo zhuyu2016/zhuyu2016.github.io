@@ -20,6 +20,7 @@ text-overflow: ellipsis;
 white-space: nowrap; //文本不换行，这样超出一行的部分被截取，显示...
 }
 ```
+
 ```html
 <div class="item">
 <p class="line-limit-length">最新消息：神秘地球黑洞深不可测，不停吸入周围海水。</p>
@@ -40,6 +41,7 @@ text-overflow: ellipsis;
 white-space: nowrap;
 }
 ```
+
 ```html
 <h5 class="product-buyer-name">橘子橘子</h5>
 <h5 class="product-buyer-name">橘子橘子匿名用户匿名</h5>

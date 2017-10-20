@@ -23,7 +23,7 @@ post-card-type: image
 </div>
 
 ```
----
+***
 ## CSS部分：
 ```css
 <style>
@@ -43,7 +43,7 @@ img{
 
 </style)
 ```
----
+***
 
 ## JavaScript部分：
 
@@ -72,7 +72,7 @@ img{
     }
 </script>
 ```
----
+***
 ## 效果图：
 ![](http://imglf4.nosdn.127.net/img/ZCtaSzhXeWllVkNvbVlNTzZZQm9KblM4WmZOZmN6TXI4YjdPV3VsbGVMaUZZNVpXR2VZMWlRPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg)
----
+***

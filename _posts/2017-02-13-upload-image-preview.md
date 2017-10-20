@@ -8,7 +8,7 @@ tags:           code
 post-card-type: image
 ---
 
-## HTML部分
+## HTML部分：
 
 ```html
 
@@ -23,8 +23,24 @@ post-card-type: image
 </div>
 
 ```
+---
+## CSS部分：
+```css
+<style>
+width: 100px;
+outline: none;
+padding: 12px 50px;
+border: 1px solid #d1d1d1;
+position: relative;
+top: 14px;
+color: #424242;
+cursor: pointer;
+letter-spacing: 1em;
+</style)
+```
+---
 
-## JavaScript部分
+## JavaScript部分：
 
 ```javascript
 <script>
@@ -51,3 +67,7 @@ post-card-type: image
     }
 </script>
 ```
+---
+## 效果图：
+![](http://imglf4.nosdn.127.net/img/ZCtaSzhXeWllVkNvbVlNTzZZQm9KblM4WmZOZmN6TXI4YjdPV3VsbGVMaUZZNVpXR2VZMWlRPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg)
+---

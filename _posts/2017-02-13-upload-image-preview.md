@@ -27,15 +27,20 @@ post-card-type: image
 ## CSS部分：
 ```css
 <style>
-width: 100px;
-outline: none;
-padding: 12px 50px;
-border: 1px solid #d1d1d1;
-position: relative;
-top: 14px;
-color: #424242;
-cursor: pointer;
-letter-spacing: 1em;
+
+img{
+    width: 150px;}
+	
+.label{
+    width: 100px;
+    outline: none;
+    padding: 12px 50px;
+    border: 1px solid #d1d1d1;
+    top: 14px;
+    color: #424242;
+    cursor: pointer;
+    letter-spacing: 1em;}
+
 </style)
 ```
 ---
